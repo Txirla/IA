@@ -9,6 +9,8 @@
 - Pulsa el Play en el siguiente (Installing AUTOMATIC1111 repo) y espera que termine (sale un símbolo de check verde junto al recuadro).
 - En la siguiente casilla (Model Download/Load), pega el Token (que has copiado antes en https://huggingface.co/settings/tokens) en el hueco que dice token: " y dale al Play y espera que termine.
 - Dale play al resto de las casillas que faltan siguiendo el orden y si todo termina bien (que va a ser que si) te generara una dirección temporal. Por ej:
+
      Running on local URL:  https://free-plums-hug-34-143-207-73.loca.lt:443
      Connected
+
 - Pulsa sobre el enlace y a funcionar.
