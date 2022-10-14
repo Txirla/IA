@@ -7,7 +7,7 @@
 - Despues dale al primer boton de play (poniendo el raton sobre el primer recuadro de codigo mas oscuro aparece sobre los corchetes [ ]).
 - Te pedira loguearte al drive para copiar lo necesario.
 - Pulsa el Play en el siguiente (Installing AUTOMATIC1111 repo) y espera que termine (sale un simbolo de check verde junto al recuadro).
-- En la siguiente casilla (Model Download/Load), pega el Token (que has copiado antes) en el hueco que dice token: " y dale al Play y espera que termine.
+- En la siguiente casilla (Model Download/Load), pega el Token (que has copiado antes en https://huggingface.co/settings/tokens) en el hueco que dice token: " y dale al Play y espera que termine.
 - Dale play al resto de las casillas que faltan suigiendo el orden y si todo termina bien (que va a ser que si) te generara una direccion temporal. Por ej:
      Running on local URL:  https://free-plums-hug-34-143-207-73.loca.lt:443
      Connected
