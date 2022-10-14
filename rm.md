@@ -14,4 +14,4 @@
      
      Connected
 
-- Pulsa sobre el enlace y a funcionar.
+- Pulsa sobre el enlace que se te genere y a funcionar.
