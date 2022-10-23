@@ -1,8 +1,10 @@
--Para instalar la IA 
+- Para instalar la IA 
 https://github.com/cmdr2/stable-diffusion-ui#readme
--Solo es descargar, descomprimir y ejecutar (Para que no haya problemas con los nombres largos en windows, copia la carpeta "stable-diffusion-ui" en la raiz de C:// o D://  ...etc).
--Descarga el archivo de modelos "davidsainz.ckpt"
+- Solo es descargar, descomprimir y ejecutar (Para que no haya problemas con los nombres largos en windows, copia la carpeta "stable-diffusion-ui" 
+  en la raiz de C:// o D://  ...etc).
+- Descarga el archivo de modelos "davidsainz.ckpt"
 https://drive.google.com/file/d/1OnpCuveueV5MMWUnlpF0KNC7ez4yjmTt/view
--Copia el archivo davidsainz.ckpt en ...\models\stable-diffusion (en mi caso F:\stable-diffusion-ui\models\stable-diffusion )
--Ejecuta desde "Start Stable Diffusion UI.cmd" y listo.
--La primera vez que se ejecuta se descarga e instala todo lo necesario(todo dentro de esta misma carpeta) y le cuesta un poco. Las próximas veces solo buscará actualizaciones y arrancara.
+- Copia el archivo davidsainz.ckpt en ...\models\stable-diffusion (en mi caso F:\stable-diffusion-ui\models\stable-diffusion )
+- Ejecuta desde "Start Stable Diffusion UI.cmd" y listo.
+- La primera vez que se ejecuta se descarga e instala todo lo necesario(todo dentro de esta misma carpeta) y le cuesta un poco. 
+  Las próximas veces solo buscará actualizaciones y arrancara.
