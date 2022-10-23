@@ -16,5 +16,5 @@ https://drive.google.com/file/d/1OnpCuveueV5MMWUnlpF0KNC7ez4yjmTt/view
 ![imagen](https://user-images.githubusercontent.com/115738597/197407550-b2da8885-ca40-4822-95e3-b980b1fd7752.png)
 
 
-Promt de ejemplo: davidsainz as a gta character, accurate, intricate 
+- Promt de ejemplo: davidsainz in gta 5, black and white, trending on artstation, painted by greg rutkowski
 
