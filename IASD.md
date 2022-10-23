@@ -11,4 +11,7 @@ https://drive.google.com/file/d/1OnpCuveueV5MMWUnlpF0KNC7ez4yjmTt/view
 - Para la IA (CTRL+C en la ventana de consola) y arrancala de nuevo para que cargue el modelo.
 - A funcionar. Se accede por http://localhost:9000/
 
--Para desinstalar, borras la carpeta y listo.
+- Para desinstalar, borras la carpeta y listo.
+
+![imagen](https://user-images.githubusercontent.com/115738597/197407550-b2da8885-ca40-4822-95e3-b980b1fd7752.png)
+
