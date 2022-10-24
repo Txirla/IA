@@ -6,7 +6,7 @@ https://github.com/cmdr2/stable-diffusion-ui#readme
 - La primera vez que se ejecuta se descarga todo lo necesario (todo dentro de esta misma carpeta) y le cuesta un poco. 
   Las próximas veces solo buscará actualizaciones y arrancara.
 - Descarga el archivo de modelos "davidsainz.ckpt"
-https://drive.google.com/file/d/1OnpCuveueV5MMWUnlpF0KNC7ez4yjmTt/view?usp=sharing
+https://drive.google.com/file/d/1gxlrRb9GLb07yt0luvv29bCoOFH9l5Ga/view?usp=sharing
 - Copia el archivo davidsainz.ckpt en ...\models\stable-diffusion (en mi caso F:\stable-diffusion-ui\models\stable-diffusion)
 - Para la IA (CTRL+C en la ventana de consola) y arrancala de nuevo para que cargue el modelo.
 - A funcionar. Se accede por http://localhost:9000/
