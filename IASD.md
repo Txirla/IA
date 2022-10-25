@@ -18,6 +18,8 @@ https://github.com/cmdr2/stable-diffusion-ui#readme
 
 
 - Promt de ejemplo: 
+    
     davidsainz in gta 5, black and white, trending on artstation, painted by greg rutkowski
+    
     teresasegura in gta 5, black and white, trending on artstation, painted by greg rutkowski
 
