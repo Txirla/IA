@@ -6,7 +6,7 @@ https://github.com/cmdr2/stable-diffusion-ui#readme
 - La primera vez que se ejecuta se descarga todo lo necesario (todo dentro de esta misma carpeta) y le cuesta un poco. 
   Las próximas veces solo buscará actualizaciones y arrancara.
 - Descarga el archivo de modelos:
-- "davidsainz.ckpt" --> https://drive.google.com/file/d/1gxlrRb9GLb07yt0luvv29bCoOFH9l5Ga/view?usp=sharing  
+- "davidsainz.ckpt" --> https://drive.google.com/file/d/1M5afxjYheCfl4vb2ymI6BY5_5UqbcOTG/view?usp=sharing
 - "teresasegura.ckpt" --> https://drive.google.com/file/d/1iMClv64aJcCWFkSPjGH1WO5vMKRiqtrn/view?usp=sharing
 - "antoniovelaz.ckpt" --> https://drive.google.com/file/d/1PBRBa_sRwIcs3N0_uK8pQpXS9u0VgVRz/view?usp=sharing
 - Copia el archivo *.ckpt que te has bajado en ...\models\stable-diffusion (en mi caso F:\stable-diffusion-ui\models\stable-diffusion)
