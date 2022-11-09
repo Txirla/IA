@@ -9,6 +9,9 @@ https://github.com/cmdr2/stable-diffusion-ui#readme
 - "davidsainz.ckpt" --> https://drive.google.com/file/d/1M5afxjYheCfl4vb2ymI6BY5_5UqbcOTG/view?usp=sharing
 - "teresasegura.ckpt" --> https://drive.google.com/file/d/1iMClv64aJcCWFkSPjGH1WO5vMKRiqtrn/view?usp=sharing
 - "antoniovelaz.ckpt" --> https://drive.google.com/file/d/1PBRBa_sRwIcs3N0_uK8pQpXS9u0VgVRz/view?usp=sharing
+- "adrianpino.ckpt" --> https://drive.google.com/file/d/1V5wIpEY_j2yvVLgEaewkpJIRab3idx8S/view?usp=share_link
+- "manuelnoguera.ckpt" --> https://drive.google.com/file/d/15IUqp_8TdaoaSq-torOfX-mxAfyblD9S/view?usp=share_link
+
 - Copia el archivo *.ckpt que te has bajado en ...\models\stable-diffusion (en mi caso F:\stable-diffusion-ui\models\stable-diffusion)
 - Para la IA (CTRL+C en la ventana de consola) y arrancala de nuevo para que cargue el modelo.
 - A funcionar. Se accede por http://localhost:9000/
